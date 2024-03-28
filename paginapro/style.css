@@ -1,0 +1,245 @@
+*{
+			
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 20px;
+    color:white;
+    }
+            
+    header{
+    position: relative;
+    margin: 20px auto;		
+    width: 1000px;
+    height: 120px;
+    background: #0099ff ;
+    margin-top: 30px;
+    }
+
+    .logotipo{
+    width: 7px;
+    height: 12px;
+    border-radius: 3px solid #0099ff;
+    padding-top: 25px;
+    padding-left: 5px;
+    }
+
+    .logotipo img {
+        margin-top: 10px;
+        border-radius: 5px;
+        margin-left: 5px;
+    }
+
+    .icono {
+    float: right;
+    top: 40px;
+    right: 120px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin: 10px;
+    border-radius: 100px;
+    width: 42px;
+    height: 42px;
+    background: #ffffff ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .icono:hover {
+        background-color: rgb(126, 229, 255);
+    }
+
+    nav{
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 48px;
+    background: whrite;
+    }
+
+    .botones{
+    float: left;
+    width: 196px;
+    margin: 0px 2px;
+    height: 48px;
+    background: #0099ff ;
+    font-size: 15px;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+.botones:hover {
+    background-color: rgb(126, 229, 255);
+}
+
+    #top {
+    position: relative;
+    margin: 15px auto;
+    width: 1000px;
+    height: 192px;
+    }
+
+    #top ul {
+    width: 1010px;
+    height: 190px;
+    background:#FFFFFF;
+    }
+
+    #top ul li {
+    float: left;
+    width: 324px;
+    height: 190px;
+    top: 40px;
+    right: 120;
+    margin-right:3px; 
+    margin-left:3.2px; 
+    background: #ffffff;
+    border: 3px solid #0099ff;
+    }
+
+    #top ul li:hover {
+       background-color: rgb(126, 229, 255);
+    }
+
+    .iconos {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    
+
+    section{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 454px;
+    background:#ffffff;
+    margin: 20px auto;
+    
+    }
+
+    .lol {
+    font-size: 30px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin: 10px;
+    }
+
+    .lol:hover {
+        background-color: rgb(126, 229, 255);
+    }
+
+    .lista {
+        margin-top: 70px;
+        text-align: center;
+    }
+
+    #izquierdo{
+				
+        width: 200px;
+        height: 451px; 
+        top: 40px;
+        right: 120px;
+        float: right;
+        margin-right: 1px;
+        margin-left: 1px; 
+        background: #0099ff ; 
+        position: static;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex;
+        align-items: center;
+        }
+    
+        #derecho {
+        width: 199px;
+        height: 451px; 
+        top: 49px; 
+        right: 120;
+        float: left; 
+        margin-left: 1px; 
+        background: #0099ff ; 
+        position: static;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        }
+    .contacto{
+        text-align: center;
+    }
+
+    .contacto img {
+        width: 170px;
+        height: 170px;
+        background-color: #FFFFFF;
+        border-radius: 20px;
+    }
+
+    .contacto img:hover {
+        background-color: rgb(126, 229, 255);
+    }
+
+    .articulo{
+    width: 595px;
+    height: 451px; 
+    float: left; 
+    margin-left: 1px; 
+    background: #0099ff ; 
+    }
+
+    .contenedor-img {
+    height: 200px;
+    width: 550px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    }
+
+    .imagens {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    }
+
+    .parrafo {
+        text-align: justify;
+    }
+
+    .footer{
+        position: relative;
+        margin: 10px auto;		
+        width: 1000px;
+        height: 100px;
+        background: #0099ff ;
+        margin-top: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+            }
+    
+    
+    
+
+
+
+
+   
+
